@@ -1,0 +1,19 @@
+Parte II
+
+Asumiendo que un arreglo esta almacenado en la memoria utilizando la representación row-mejor, si la matriz a[10][20] ya fue declarada y la dirección de su primer elemento es 100 entonces la direcciones de los siguientes elementos son:
+
+a[0][0]=100
+a[2][1]=141
+a[5][1]=201
+a[1][10]=130
+a[2][10]=150
+a[5][3]=203
+a[9][19]=299
+
+Parte II
+
+matrix[0][0]=*(*(matrix)) incorrecto
+matrix[i][j]=*((*(matrix))+(i*COLS+j)) incorrecto
+matrix[I][j]=*(*(matrix+i)+j) correcto
+matrix[I][j]=*(matrix[i]+j) correcto
+matrix[I][j]=(*(matrix+i))[j] correcto
