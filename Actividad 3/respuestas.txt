@@ -1,4 +1,4 @@
-Parte II
+Parte I
 
 Asumiendo que un arreglo esta almacenado en la memoria utilizando la representación row-mejor, si la matriz a[10][20] ya fue declarada y la dirección de su primer elemento es 100 entonces la direcciones de los siguientes elementos son:
 
