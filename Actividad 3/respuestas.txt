@@ -12,8 +12,8 @@ a[9][19]=299
 
 Parte II
 
-matrix[0][0]=*(*(matrix)) incorrecto
-matrix[i][j]=*((*(matrix))+(i*COLS+j)) incorrecto
+matrix[0][0]=*(*(matrix)) correcto
+matrix[i][j]=*((*(matrix))+(i*COLS+j)) correcto
 matrix[I][j]=*(*(matrix+i)+j) correcto
 matrix[I][j]=*(matrix[i]+j) correcto
 matrix[I][j]=(*(matrix+i))[j] correcto
