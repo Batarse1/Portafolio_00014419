@@ -1,0 +1,24 @@
+Ronaldo me dejo enviarlo tarde, debido a que tuve que realizar una visita a canal 21 en la hora clase.
+
+Algoritmo 1
+
+-Crear pila (initialize).
+-Mientras que se quiera añadir elementos a la pila apilarlos (push).
+-Verificar que la pila no se encuentre vacía (empty) y si no lo esta desapilar elemento superior (pop), caso contrario eliminar lista.
+-Verificar que la pila no se encuentre vacía (empty) y si no lo esta desapilar elemento superior y imprimirlo (pop), caso contrario eliminar lista.
+
+Algoritmo 2
+
+-Crear pila (initialize).
+-Mientras que se quiera añadir elementos a la pila (push).
+-Verificar que la pila no se encuentre vacía (empty) y si no lo esta desapilar elemento superior (pop), caso contrario eliminar lista.
+-Verificar que la pila no se encuentre vacía (empty) y si no lo esta desapilar elemento superior y imprimirlo (pop), caso contrario eliminar lista.
+-Apilar elemento que se desapilo de ultimo (push).
+-Apilar elemento que se desapilo de primero (push).
+
+Algoritmo 3
+
+-Crear pila (initialize).
+-Mientras que se quiera añadir elementos a la pila (push).
+-Mientras que la pila no encuentre vacía (empty) hacer un push guardándolo en una variable y modificando con el siguiente push con cada iteración.
+-al final eliminar la lista e imprimir la variable.
