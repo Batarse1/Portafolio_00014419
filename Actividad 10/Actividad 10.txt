@@ -1,0 +1,12 @@
+A-B/(C*D$E)
+A-B/(C*DE$)		1.Se convierte el exponente.
+A-B/(CDE$*)		2.Se convierte la multiplicación.
+A-B/CDE$*		3.Se convierte el paréntesis.
+A-BCDE$*/		4.Se convierte la división.
+ABCDE$*/-		5.Se convierte la resta.
+
+((A+B)*C-(D-E))$(F+G)
+((AB+)*C-(DE-))$(FG+)	1.Se convierte la resta y las sumas.
+(AB+C*-(DE-))$(FG+)	2.Se convierte el paréntesis y la multiplicación.
+(AB+C*DE--)$(FG+)	3.Se convierte el paréntesis y la resta.
+AB+C*DE--FG+$		4.Se convierte el paréntesis y el exponente.
