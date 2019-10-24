@@ -1,0 +1,50 @@
+Primer árbol
+¿Cuáles nodos son la raíz, rama y hojas?.
+Nodo raíz: A
+Nodos rama: B,D,C,E
+Nodos hojas: G,H,I,F
+Nivel de cada nodo.
+Nivel 0: A
+Nivel 1: B,C
+Nivel 2: D,E,F
+Nivel 3: G,H,I
+Profundidad, peso y orden del árbol.
+Profundidad: 3
+Peso: 9
+Orden: 2
+Un sub-árbol cualquiera.
+Sub-árbol:E,H,I
+Determine si es lleno o estricto.
+No es lleno o estricto, debido a que no todos sus nodos tienen cero o 2 hijos.
+Determine si es perfecto o completo.
+No es perfecto o completo debido que no todas las hojas están en el nivel de la profundidad.
+Recorridos: pre-orden,post-orden,in-orden
+Pre-orden: A,B,D,G,C,E,H,I,F
+Post-orden: G,D,B,H,I,E,F,C,A
+In-orden: D,G,B,A,H,E,I,C,F
+
+Segundo árbol
+¿Cuáles nodos son la raíz, rama y hojas?.
+Nodo raíz: A
+Nodos rama: B,C,E,F,D,H
+Nodos hojas: I,J,G,K,L
+Nivel de cada nodo.
+Nivel 0: A
+Nivel 1: B
+Nivel 2: C,D
+Nivel 3: E,F,G,H
+Nivel 4: I,J,K,L
+Profundidad, peso y orden del árbol.
+Profundidad: 4
+Peso: 12
+Orden: 2
+Un sub-árbol cualquiera.
+Sub-árbol:H,K,L
+Determine si es lleno o estricto.
+No es lleno o estricto, debido a que no todos sus nodos tienen cero o 2 hijos.
+Determine si es perfecto o completo.
+No es perfecto o completo debido que no todas las hojas están en el nivel de la profundidad.
+Recorridos: pre-orden,post-orden,in-orden
+Pre-orden: A,B,C,E,I,F,J,D,G,H,K,L
+Post-orden: I,E,F,J,C,G,K,L,H,D,B,A
+In-orden: E,I,C,F,J,B,G,D,K,H,A,L
