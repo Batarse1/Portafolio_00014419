@@ -1,0 +1,35 @@
+Árbol 1 -eliminación
+
+-Se elimina el 95 y se agarra el 100 como raíz.
+-Se elimina el 72, y el 60 ocupa su lugar.
+-Se elimina el 84
+-Se elimina el 100 y el 105 ocupa su lugar
+-Se elimina el 82 y el 81 ocupa su lugar
+
+Árbol 2 -inserción en árbol balanceado
+
+-Agregar 86 a la derecha del 75
+-Agregar 65 a la izquierda del 75
+-Agregar 70 a la derecha del 65 y hacer una doble rotación izquierda
+-Agregar 67 a la izquierda del 70
+-Agregar 73 a la derecha del 70
+-Agregar 93 a la derecha del 86
+-Agregar 69 a la derecha del 67 y hacer una doble rotación izquierda
+-Agregar 25 a la izquierda del 43 y hacer una simple rotación derecha
+-Agregar 66 a la izquierda del 67
+-Agregar 68 a la izquierda del 69
+-Agregar 47 a la izquierda del 58
+-Agregar 62 a la derecha del 58
+-Agregar 10 a la izquierda del 25
+-Agregar 60 a la izquierda del 62 y hacer una simple rotación derecha
+
+Árbol 3 -eliminación en árbol balanceado
+
+-Eliminar 25, colocar 10 en su lugar y hacer una simple rotación izquierda
+-Eliminar 75, colocar 73 en su lugar y hacer una simple rotación izquierda
+-Eliminar 66 y hacer doble rotación izquierda
+-Eliminar 65, colocar 62 en su lugar, colocar 60 en el lugar que estaba el 62
+-Eliminar 62, colocar 60 en su lugar y hacer una simple rotación derecha
+-Eliminar 10 y hacer doble rotación izquierda
+-Eliminar 43
+-Eliminar 47, colocar 58 en su lugar y hacer una simple rotación izquierda
